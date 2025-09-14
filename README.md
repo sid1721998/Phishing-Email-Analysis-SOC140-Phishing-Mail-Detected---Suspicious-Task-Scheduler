@@ -2,6 +2,9 @@
 <h3 align="center">Event ID 82: Phishing Mail Detected – Suspicious Task Scheduler</h3>
 
 ---
+  <p align="center">
+  <img src="1.webp" alt="Phishing Alert Screenshot" width="600"/>
+</p>
 
 ## 📌 Incident Overview
 <table>
