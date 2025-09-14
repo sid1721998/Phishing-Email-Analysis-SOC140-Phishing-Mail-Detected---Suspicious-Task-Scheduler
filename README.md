@@ -23,7 +23,11 @@
 - **Subject:** *COVID19 Vaccine*  
 - **Content Suspicious:** Yes 🚩  
 - **Attachment:** `72c812cf21909a48eb9cceb9e04b865d.pdf`  
-- **Sandbox Result:** Malicious – attempted to create a **suspicious scheduled task**  
+- **Sandbox Result:** Malicious – attempted to create a **suspicious scheduled task**
+
+  <p align="center">
+  <img src="2.webp" alt="Phishing Alert Screenshot" width="600"/>
+</p>
 
 ---
 
